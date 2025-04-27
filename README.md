@@ -15,4 +15,4 @@ Technologies Used
 - SQL for data manipulation and analysis.
 - Tableau for data visualization.
 
-https://6atonoff.github.io/Student-Depression-EDA/
+https://6atonoff.github.io/Student-Depression-EDA/ - visualisation in Tableau
