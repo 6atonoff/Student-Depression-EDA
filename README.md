@@ -14,3 +14,5 @@ The project aims to analyze factors contributing to student depression, providin
 Technologies Used
 - SQL for data manipulation and analysis.
 - Tableau for data visualization.
+
+https://6atonoff.github.io/Student-Depression-EDA/
